@@ -9,6 +9,8 @@
 
 ## Installation
 
+Pending
+
 ## General Info & Features
 
 Node.js Book Management API

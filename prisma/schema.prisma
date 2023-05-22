@@ -10,7 +10,7 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Books {
+model Book {
   id              Int      @id @default(autoincrement())
   title           String   @db.VarChar(300)
   author          String   @db.VarChar(50)

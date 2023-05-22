@@ -40,11 +40,7 @@ async function main() {
     skipDuplicates: true,
   });
 
-  const allBooks = await prisma.book.findMany({
-    where: {
-      title: "Matilda",
-    },
-  });
+  const allBooks = await prisma.book.findMany();
   console.dir(allBooks, { depth: null });
 }
 

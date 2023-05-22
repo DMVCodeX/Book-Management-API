@@ -14,6 +14,8 @@ Define a Book model with the following properties: id (UUID), title (string), au
 Implement GraphQL APIs using Apollo Server to perform CRUD operations on books. IN PROGRESS
 
 Implement proper validation and error handling for the APIs. PENDING
+(trycatch block)
+
 
 Frontend:
 Create a React application using Create React App.  COMPLETED
@@ -27,6 +29,10 @@ Implement a form to add a new book, including validation for required fields.  P
 Enable editing and deleting of existing books.  PENDING
 
 Implement proper error handling and display error messages if API requests fail.  PENDING
+
+
+
+Optional
 
 Testing (optional but add bonus points):
 Write unit tests for the backend APIs using a testing framework of your choice (e.g., Jest).

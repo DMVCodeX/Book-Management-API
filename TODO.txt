@@ -1,0 +1,42 @@
+Project: Book Management System
+
+Description: Create a book management system using React for the frontend, Node.js for the backend, Prisma as the ORM, Apollo Client for GraphQL communication, and JavaScript for coding. The system should allow users to perform CRUD operations on books.
+
+Requirements:
+
+Backend:
+Set up a Node.js server using Express.  COMPLETED
+
+Use Prisma as the ORM to connect to a mysql database. COMPLETED 
+
+Define a Book model with the following properties: id (UUID), title (string), author (string), publicationYear (integer), and createdAt/updatedAt (timestamps).  COMPLETED
+ 
+Implement GraphQL APIs using Apollo Server to perform CRUD operations on books. IN PROGRESS
+
+Implement proper validation and error handling for the APIs. PENDING
+
+Frontend:
+Create a React application using Create React App.  COMPLETED
+
+Set up Apollo Client to communicate with the GraphQL backend.  PENDING
+
+Display a list of books on the homepage, including their titles, authors, and publication years.  PENDING
+
+Implement a form to add a new book, including validation for required fields.  PENDING
+
+Enable editing and deleting of existing books.  PENDING
+
+Implement proper error handling and display error messages if API requests fail.  PENDING
+
+Testing (optional but add bonus points):
+Write unit tests for the backend APIs using a testing framework of your choice (e.g., Jest).
+Write integration tests for the frontend components using a testing framework of your choice (e.g., React Testing Library).
+
+Bonus:
+Implement pagination or infinite scrolling for the book list.
+Add search and filtering capabilities to the book list.
+Implement authentication and authorization using a library like JWT or OAuth.
+
+Deliverables:
+Provide a Git repository with the codebase and necessary instructions to set up and run the application.
+Include a README file with explanations of the project structure, technologies used, and any additional notes or considerations.

@@ -21,9 +21,11 @@ model Book {
 }
 
 model User {
-  id    Int    @id @default(autoincrement())
-  name  String @db.VarChar(50)
-  email String @unique
+  id        Int      @id @default(autoincrement())
+  name      String   @db.VarChar(50)
+  email     String   @unique
+  role      Role     @default(USER)
+  createdAt DateTime @default(now())
 }
 
 enum Role {

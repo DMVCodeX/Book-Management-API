@@ -11,16 +11,16 @@ Use Prisma as the ORM to connect to a mysql database. COMPLETED
 
 Define a Book model with the following properties: id (UUID), title (string), author (string), publicationYear (integer), and createdAt/updatedAt (timestamps).  COMPLETED
  
-Implement GraphQL APIs using Apollo Server to perform CRUD operations on books. IN PROGRESS
+Implement GraphQL APIs using Apollo Server to perform CRUD operations on books. COMPLETED
 
-Implement proper validation and error handling for the APIs. PENDING
+Implement proper validation and error handling for the APIs. COMPLETED
 (trycatch block)
 
 
 Frontend:
 Create a React application using Create React App.  COMPLETED
 
-Set up Apollo Client to communicate with the GraphQL backend.  PENDING
+Set up Apollo Client to communicate with the GraphQL backend.  IN PROGRESS
 
 Display a list of books on the homepage, including their titles, authors, and publication years.  PENDING
 

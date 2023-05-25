@@ -33,7 +33,7 @@ Uncomment data in seed.js file and in the terminal run
 node seed.js
 ```
 
-This will poplulate the book data. Once thisd has been done besure to recoment the data.
+This will poplulate the book data. Once this has been done be sure to recomment the data.
 
 ### Start the server:
 

@@ -20,15 +20,15 @@ Implement proper validation and error handling for the APIs. COMPLETED
 Frontend:
 Create a React application using Create React App.  COMPLETED
 
-Set up Apollo Client to communicate with the GraphQL backend.  IN PROGRESS
+Set up Apollo Client to communicate with the GraphQL backend.  COMPLETED
 
-Display a list of books on the homepage, including their titles, authors, and publication years.  PENDING
+Display a list of books on the homepage, including their titles, authors, and publication years. COMPLETED
 
-Implement a form to add a new book, including validation for required fields.  PENDING
+Implement a form to add a new book, including validation for required fields. COMPLETED
 
 Enable editing and deleting of existing books.  PENDING
 
-Implement proper error handling and display error messages if API requests fail.  PENDING
+Implement proper error handling and display error messages if API requests fail.  COMPLETED
 
 
 

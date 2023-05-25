@@ -52,6 +52,6 @@ Write integration tests for the frontend components using a testing framework of
 Implement authentication and authorization using a library like JWT or OAuth.
 
 Deliverables:
-Provide a Git repository with the codebase and necessary instructions to set up and run the application.
+Provide a Git repository with the codebase and necessary instructions to set up and run the application.  COMPLETED
 
-Include a README file with explanations of the project structure, technologies used, and any additional notes or considerations.
+Include a README file with explanations of the project structure, technologies used, and any additional notes or considerations. COMPLETED

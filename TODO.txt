@@ -30,6 +30,14 @@ Enable editing and deleting of existing books.  PENDING
 
 Implement proper error handling and display error messages if API requests fail.  COMPLETED
 
+Add search and filtering capabilities to the book list. COMPLETED
+
+
+
+Bonus:
+Implement pagination or infinite scrolling for the book list.
+
+Add search and filtering capabilities to the book list. COMPLETED
 
 
 Optional
@@ -38,11 +46,11 @@ Testing (optional but add bonus points):
 Write unit tests for the backend APIs using a testing framework of your choice (e.g., Jest).
 Write integration tests for the frontend components using a testing framework of your choice (e.g., React Testing Library).
 
-Bonus:
-Implement pagination or infinite scrolling for the book list.
-Add search and filtering capabilities to the book list.
+
+
 Implement authentication and authorization using a library like JWT or OAuth.
 
 Deliverables:
 Provide a Git repository with the codebase and necessary instructions to set up and run the application.
+
 Include a README file with explanations of the project structure, technologies used, and any additional notes or considerations.

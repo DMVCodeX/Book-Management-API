@@ -11,37 +11,35 @@
 
 ### Clone the repository:
 
-```
+```bash
 git clone https://github.com/DMVCodeX/Book-Management-API.git
 ```
 
-
 ### Change into the project directory:
 
-```
+```bash
 cd Book-Management-API
 ```
 
 ### Install dependencies:
 
-```
+```bash
 npm install
 ```
 
 Uncomment data in seed.js file and in the terminal run
 
-```
+```bash
 node seed.js
 ```
 
 This will poplulate the book data. Once thisd has been done besure to recoment the data.
 
-
 ### Start the server:
-```
-npm start
-```
 
+```bash
+node server.js
+```
 
 ## General Info & Features
 
@@ -69,4 +67,3 @@ Project was created with:
 
 Data Schema and User Stories
 [Book-Management-API-Schema](https://docs.google.com/spreadsheets/d/1_2wFreyEVlK1XuAi4IgH6Neh9t_l7O06_0kgFn3Ch-c/edit#gid=0)
-

@@ -16,6 +16,7 @@ Pending
 Node.js Book Management API
 
 - View book collection
+- Search for a single book using ID
 - Add new books to collection
 - Edit exsiting books
 - Delete exsiting books

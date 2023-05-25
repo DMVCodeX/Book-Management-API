@@ -26,19 +26,20 @@ Display a list of books on the homepage, including their titles, authors, and pu
 
 Implement a form to add a new book, including validation for required fields. COMPLETED
 
-Enable editing and deleting of existing books.  PENDING
+Enable editing and deleting of existing books. COMPLETED
 
 Implement proper error handling and display error messages if API requests fail.  COMPLETED
 
-Add search and filtering capabilities to the book list. COMPLETED
 
 
 
 Bonus:
-Implement pagination or infinite scrolling for the book list.
+
+Add search and filtering capabilities to the book list. COMPLETED  
 
 Add search and filtering capabilities to the book list. COMPLETED
 
+Implement pagination or infinite scrolling for the book list.
 
 Optional
 

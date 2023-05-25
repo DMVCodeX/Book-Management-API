@@ -1,4 +1,4 @@
-# Book-Management-Frontend
+# Book-Management-API
 
 ## Table of Contents
 
